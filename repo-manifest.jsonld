@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/frictionlessdata/tabulator-py/commit/aecfa88d7ae8c633b1f8b691d061c5e9609ad95d",
       "git:hexsha": "aecfa88d7ae8c633b1f8b691d061c5e9609ad95d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/frictionlessdata/tabulator-py/commit/4a43ccd965cc6ad351c27e8d99674bde2e716335",
