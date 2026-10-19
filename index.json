@@ -1,0 +1,11 @@
+{
+  "org": "frictionlessdata",
+  "repo": "tabulator-py",
+  "versions": [
+    {
+      "commit": "aecfa88d7ae8c633b1f8b691d061c5e9609ad95d",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:38:49.130208+00:00"
+    }
+  ]
+}
